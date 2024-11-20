@@ -21,6 +21,7 @@ I'm a passionate backend developer with experience in **Java**, **Spring Boot**,
 ## 📫 How to reach me:
 - Email: [hardcode275@gmail.com](mailto:hardcode275@gmail.com)
 - GitHub: [Hardcode275](https://github.com/Hardcode275)
+- Telegram: [HR](https://t.me/hr_275)
 
 
 
