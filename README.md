@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hi, I'm Hardcode275! 👋
 
 I'm a passionate backend developer with experience in **Java**, **Spring Boot**, and **Python**. Currently studying **Software Development Engineering** and working on various open-source projects.
@@ -8,8 +5,8 @@ I'm a passionate backend developer with experience in **Java**, **Spring Boot**,
 ## 🔧 Technologies & Tools
 - **Programming Languages**: Java, Python
 - **Frameworks**: Spring Boot
-- **Databases**: MySQL, PostgreSQL
-- **Blockchain**: Bitcoin, Lightning Network
+- **Databases**: MySQL
+- **Bitcoin**: Bitcoin, Lightning Network
 - **Tools**: Git, GitHub, Docker
 
 ## 📚 Certifications
