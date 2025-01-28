@@ -1,13 +1,13 @@
 # Hi, I'm Hardcode275! 👋
 
-I'm a passionate backend developer with experience in **Java**, **Spring Boot**, and **Python**. Currently studying **Software Development Engineering** and working on various open-source projects.
+I'm a passionate backend developer with experience in **Java**, **Spring Boot**, **Javascript**, **NodeJs**, and **React** Currently studying **Software Development Engineering** and working on various open-source projects.
 
 ## 🔧 Technologies & Tools
-- **Programming Languages**: Java, Python
-- **Frameworks**: Spring Boot
+- **Programming Languages**: Java, Javascript
+- **Frameworks**: Spring Boot, React
 - **Databases**: MySQL
 - **Bitcoin**: Bitcoin, Lightning Network
-- **Tools**: Git, GitHub, Docker
+- **Tools**: Git, GitHub
 
 ## 📚 Certifications
 - Mastering Bitcoin — Satoshi Library (2022)
