@@ -49,9 +49,8 @@ Currently studying Software Development Engineering while working on freelance a
 - Privacy & Digital Anonymization Courses — Arkad and P_Hold (2022)
 - Participant at BTC++ Mexico Conference (2022)
 
-🎓 Software Development Engineering  
-:contentReference[oaicite:0]{index=0}  
-(Currently in fifth year)
+🎓 Software Development Engineering   
+    (Currently in fifth year)
 
 ---
 
