@@ -79,9 +79,9 @@ public class Hardcode275 {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hardcode275&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true&title_color=1D9E75&icon_color=6366F1&border_color=6366F1"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hardcode275&theme=tokyonight" height="170"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardcode275&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&title_color=1D9E75&border_color=6366F1"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hardcode275&theme=tokyonight" height="170"/>
 
 <br/>
 
