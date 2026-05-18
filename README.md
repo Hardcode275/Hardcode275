@@ -1,6 +1,6 @@
 # Hi, I'm Hardcode275! 👋
 
-Full-Stack Developer from El Salvador 🇸🇻
+Full-Stack Developer from El Salvador
 
 I'm a software developer focused on building scalable applications using Java/Spring Boot and the JavaScript ecosystem. I also develop native Android applications and have a strong interest in decentralized technologies, Bitcoin, privacy, and open-source software.
 
@@ -50,7 +50,7 @@ Currently studying Software Development Engineering while working on freelance a
 - Participant at BTC++ Mexico Conference (2022)
 
 🎓 Software Development Engineering   
-    (Currently in fifth year)
+        (Currently in fifth year)
 
 ---
 
