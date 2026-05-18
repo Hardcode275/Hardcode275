@@ -1,79 +1,134 @@
 <div align="center">
 
-# Hardcode275
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:6366F1&height=220&section=header&text=Hardcode275&fontSize=65&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%C2%B7%20El%20Salvador%20%F0%9F%87%B8%F0%9F%87%BB&descAlignY=58&descSize=20" width="100%"/>
 
-**Full-Stack Developer · El Salvador 🇸🇻**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=620&lines=Building+scalable+backend+systems;Java+%2F+Spring+Boot+%2F+React+%2F+Node.js;Bitcoin+%26+Lightning+Network+developer;Native+Android+developer;Open+source+contributor)](https://git.io/typing-svg)
 
-Building scalable applications with Java/Spring Boot and the JS ecosystem.  
-Native Android dev with a deep interest in Bitcoin, Lightning Network, privacy, and open-source software.
+<br/>
 
-![Open to freelance](https://img.shields.io/badge/Open_to-Freelance-1D9E75?style=flat-square)
-![UFG](https://img.shields.io/badge/UFG-Software_Engineering_%C2%B7_5th_year-6366F1?style=flat-square)
-![BTC++](https://img.shields.io/badge/BTC%2B%2B-Mexico_2022-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Hardcode275&color=1D9E75&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+![Open to freelance](https://img.shields.io/badge/OPEN_TO-FREELANCE-1D9E75?style=for-the-badge)
+&nbsp;
+![BTC++](https://img.shields.io/badge/BTC%2B%2B-MEXICO_2022-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 </div>
 
 ---
 
-## Stack
+<div align="center">
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+### `> whoami`
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+</div>
 
-### Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-### Bitcoin & Privacy
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![Lightning Network](https://img.shields.io/badge/Lightning_Network-792EE5?style=flat-square&logo=lightning&logoColor=white)
-![Privacy](https://img.shields.io/badge/Privacy_tech-555555?style=flat-square&logo=tor-project&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+```java
+public class Hardcode275 {
+    String[]  roles    = { "Full-Stack Developer", "Android Dev", "Bitcoin Builder" };
+    String    country  = "El Salvador 🇸🇻";
+    String    studying = "Software Engineering @ UFG  ·  5th year";
+    String[]  focus    = { "Scalable backends", "Decentralized systems", "Privacy tech" };
+    boolean   openToWork = true;
+    String    motto    = "not_your_keys · not_your_coins";
+}
+```
 
 ---
 
-## Current focus
+## Tech Stack
 
-- Full-stack & backend application development
-- Decentralized systems and privacy technologies
-- Bitcoin & Lightning Network projects
-- Contributing to open-source software
+<div align="center">
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Mobile**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Bitcoin & Privacy**
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Lightning Network](https://img.shields.io/badge/Lightning_Network-792EE5?style=for-the-badge)
+![Privacy](https://img.shields.io/badge/Privacy_Tech-555555?style=for-the-badge&logo=tor-project&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hardcode275&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true&title_color=1D9E75&icon_color=6366F1&border_color=6366F1"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardcode275&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&title_color=1D9E75&border_color=6366F1"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardcode275&theme=tokyonight&border_radius=10&border=6366F1&ring=1D9E75&fire=F7931A&currStreakLabel=1D9E75" width="49%"/>
+
+</div>
+
+---
+
+## Current Focus
+
+```
+▸  Full-stack & backend application development
+▸  Bitcoin and Lightning Network integrations
+▸  Decentralized systems and privacy technologies
+▸  Native Android development
+▸  Open-source contributions
+```
 
 ---
 
 ## Education & Certifications
 
-| | |
-|:--|:--|
-| 📖 **Mastering Bitcoin** | Biblioteca de Satoshi · 2022 |
-| ⚡ **Mastering Lightning Network** | Biblioteca de Satoshi · 2022 |
-| 🔐 **Privacy & Digital Anonymization** | Arkad & P_Hold · 2022 |
-| ₿ **BTC++ Mexico Conference** | Speaker & Participant · 2022 |
+<div align="center">
 
-🎓 **Software Development Engineering** — Universidad Francisco Gavidia (UFG) · 5th year
+| Year | Credential |
+|:----:|:-----------|
+| 2025 | 🎓 **Software Engineering** — Universidad Francisco Gavidia (UFG) · 5th year |
+| 2022 | ₿  **BTC++ Mexico** — Speaker & Participant |
+| 2022 | ⚡ **Mastering Lightning Network** — Biblioteca de Satoshi |
+| 2022 | 📖 **Mastering Bitcoin** — Biblioteca de Satoshi |
+| 2022 | 🔐 **Privacy & Digital Anonymization** — Arkad & P_Hold |
+
+</div>
 
 ---
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/hrcode275@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hrcode275@gmail.com)
-[![GitHub](https://img.shields.io/badge/Hardcode275-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hardcode275)
-[![Telegram](https://img.shields.io/badge/@hr__275-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hr_275)
+<div align="center">
 
----
+[![Email](https://img.shields.io/badge/hrcode275@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrcode275@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Hardcode275-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hardcode275)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/@hr__275-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hr_275)
 
-<div align="right">
-  <sub>// not_your_keys · not_your_coins</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:1D9E75&height=120&section=footer" width="100%"/>
+
 </div>
