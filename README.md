@@ -85,7 +85,7 @@ public class Hardcode275 {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardcode275&theme=tokyonight&border_radius=10&border=6366F1&ring=1D9E75&fire=F7931A&currStreakLabel=1D9E75" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Hardcode275&theme=tokyonight&border_radius=10&border=6366F1&ring=1D9E75&fire=F7931A&currStreakLabel=1D9E75" width="49%"/>
 
 </div>
 
