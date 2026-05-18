@@ -66,10 +66,6 @@ Currently studying Software Development Engineering while working on freelance a
 
 ## 📫 Contact
 
-- GitHub: https://github.com/Hardcode275
-- Email: Haroldorellana20@gmail.com
-
-## 📫 How to reach me:
 - Email: [hrcode275@gmail.com](mailto:hrcode275@gmail.com)
 - GitHub: [Hardcode275](https://github.com/Hardcode275)
 - Telegram: [Hr](https://t.me/hr_275)
